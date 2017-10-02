@@ -1,0 +1,2 @@
+# hello-worldd
+print now
